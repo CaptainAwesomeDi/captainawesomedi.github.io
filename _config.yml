@@ -1,0 +1,37 @@
+url: https://amnismedia.ca
+baseurl: /
+remote-theme: y7kim/agency-jekyll-theme
+
+# Site settings
+title: Amins Media
+email: fioarlego2@gmail.com
+description: "Amins Media, your web development needs at the tip of your hands."
+
+# Team names, titles and social links
+people:
+  - name: Di Wu
+    pic: 1
+    position: Software Developer
+    social:
+      - title: twitter
+        url: #
+      - title: github
+        url: #
+
+  - name: Fiorella Leon Gomez
+    pic: 2
+    position: Software Developer
+    social:
+      - title: twitter
+        url: https://twitter.com/fio_fiyo
+      - title: portfolio
+        url: https://fiofiyo.github.io
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: TBD
+  - line: Vancouver, British Columbia
+
+# Build settings
+markdown: kramdown
+permalink: pretty
